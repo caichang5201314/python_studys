@@ -1,0 +1,12 @@
+2021-04-27 10:10:21 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-04-27 10:10:24 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-04-27 10:10:24 BasePage [INFO] 我打开了../drivers/chromedriver网页
+2021-04-27 10:10:24 Config [INFO] 你的value值为：http://192.168.1.25/ecshop/admin
+2021-04-27 10:10:27 BasePage [INFO] 最大化浏览器
+2021-04-27 10:10:27 BasePage [INFO] 对着class_name=>btn-a元素点击了一下
+2021-04-27 10:12:28 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-04-27 10:12:32 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-04-27 10:12:32 BasePage [INFO] 我打开了../drivers/chromedriver网页
+2021-04-27 10:12:32 Config [INFO] 你的value值为：http://192.168.1.25/ecshop/admin
+2021-04-27 10:12:35 BasePage [INFO] 最大化浏览器
+2021-04-27 10:12:36 BasePage [INFO] 对着class_name=>btn-a元素点击了一下

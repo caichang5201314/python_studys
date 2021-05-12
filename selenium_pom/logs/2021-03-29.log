@@ -1,0 +1,150 @@
+2021-03-29 11:04:14 BasePage [INFO] 我打开了http://192.168.1.32/ecshop/admin网页
+2021-03-29 11:04:26 BasePage [INFO] 最大化浏览器
+2021-03-29 11:04:26 BasePage [INFO] 对着class_name=>btn-a元素点击了一下
+2021-03-29 11:04:35 BasePage [INFO] 我打开了http://192.168.1.32/ecshop/admin网页
+2021-03-29 11:04:46 BasePage [INFO] 最大化浏览器
+2021-03-29 11:04:46 BasePage [INFO] 对着class_name=>btn-a元素点击了一下
+2021-03-29 11:04:51 BasePage [INFO] 对着link_text=>商品列表元素点击了一下
+2021-03-29 11:04:51 BasePage [INFO] 对着xpath=>//a[@href='goods.php?act=add']元素点击了一下
+2021-03-29 11:04:52 BasePage [INFO] 对着xpath=>//input[@value=' 确定 ']元素点击了一下
+2021-03-29 11:04:52 GoodsCase [INFO] select * from ecs_goods where goods_name='包包爱宝宝'
+2021-03-29 11:04:52 GoodsCase [INFO] 执行结果是:(664, 18, 'ECS000664', '包包爱宝宝', '+', 0, 0, '', 1, Decimal('0.000'), Decimal('0.00'), 0, Decimal('0.00'), Decimal('0.00'), 0, 0, 1, '', '', '', '', '', '', 1, '', 1, 1, 0, 0, 1616746577, 100, 0, 0, 0, 0, 0, 0, 1616746577, 0, '', -1, -1, 0, None)
+2021-03-29 11:04:52 GoodsCase [INFO] 测试通过
+2021-03-29 11:33:18 BasePage [INFO] 我打开了http://192.168.1.32/ecshop/admin网页
+2021-03-29 11:33:20 BasePage [INFO] 最大化浏览器
+2021-03-29 11:33:20 BasePage [INFO] 对着class_name=>btn-a元素点击了一下
+2021-03-29 11:33:24 BasePage [INFO] 对着link_text=>商品列表元素点击了一下
+2021-03-29 11:33:24 BasePage [INFO] 对着xpath=>//a[@href='goods.php?act=add']元素点击了一下
+2021-03-29 11:33:24 BasePage [INFO] 对着xpath=>//input[@value=' 确定 ']元素点击了一下
+2021-03-29 11:33:24 GoodsCase [INFO] 你执行的sql是:[select * from ecs_goods where goods_name='包包爱宝宝']
+2021-03-29 11:33:24 GoodsCase [INFO] 执行结果是:(664, 18, 'ECS000664', '包包爱宝宝', '+', 0, 0, '', 1, Decimal('0.000'), Decimal('0.00'), 0, Decimal('0.00'), Decimal('0.00'), 0, 0, 1, '', '', '', '', '', '', 1, '', 1, 1, 0, 0, 1616746577, 100, 0, 0, 0, 0, 0, 0, 1616746577, 0, '', -1, -1, 0, None)
+2021-03-29 11:33:24 GoodsCase [INFO] 测试通过
+2021-03-29 14:35:22 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 14:35:25 BasePage [INFO] 我打开了http://192.168.1.32/ecshop/admin网页
+2021-03-29 14:35:25 Config [INFO] 你的value值为：http://192.168.1.32/ecshop/admin
+2021-03-29 14:35:27 BasePage [INFO] 最大化浏览器
+2021-03-29 14:35:27 BasePage [INFO] 对着class_name=>btn-a元素点击了一下
+2021-03-29 14:35:29 BasePage [INFO] 对着link_text=>商品列表元素点击了一下
+2021-03-29 14:35:29 BasePage [INFO] 对着xpath=>//a[@href='goods.php?act=add']元素点击了一下
+2021-03-29 14:35:30 BasePage [INFO] 对着xpath=>//input[@value=' 确定 ']元素点击了一下
+2021-03-29 14:35:30 GoodsCase [INFO] 你执行的sql是:[select * from ecs_goods where goods_name='包包爱宝宝']
+2021-03-29 14:35:30 GoodsCase [INFO] 执行结果是:(664, 18, 'ECS000664', '包包爱宝宝', '+', 0, 0, '', 1, Decimal('0.000'), Decimal('0.00'), 0, Decimal('0.00'), Decimal('0.00'), 0, 0, 1, '', '', '', '', '', '', 1, '', 1, 1, 0, 0, 1616746577, 100, 0, 0, 0, 0, 0, 0, 1616746577, 0, '', -1, -1, 0, None)
+2021-03-29 14:35:30 GoodsCase [INFO] 测试通过
+2021-03-29 14:39:55 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 14:39:57 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 14:39:57 BasePage [INFO] 我打开了../drivers/chromedriver网页
+2021-03-29 14:39:57 Config [INFO] 你的value值为：http://192.168.1.32/ecshop/admin
+2021-03-29 14:39:59 BasePage [INFO] 最大化浏览器
+2021-03-29 14:40:00 BasePage [INFO] 对着class_name=>btn-a元素点击了一下
+2021-03-29 14:40:02 BasePage [INFO] 对着link_text=>商品列表元素点击了一下
+2021-03-29 14:40:02 BasePage [INFO] 对着xpath=>//a[@href='goods.php?act=add']元素点击了一下
+2021-03-29 14:40:03 BasePage [INFO] 对着xpath=>//input[@value=' 确定 ']元素点击了一下
+2021-03-29 14:40:03 GoodsCase [INFO] 你执行的sql是:[select * from ecs_goods where goods_name='包包爱宝宝']
+2021-03-29 14:40:03 Config [INFO] 你的value值为：192.168.1.32
+2021-03-29 14:40:03 Config [INFO] 你的value值为：root
+2021-03-29 14:40:03 Config [INFO] 你的value值为：root
+2021-03-29 14:40:03 Config [INFO] 你的value值为：ecshop
+2021-03-29 14:40:03 GoodsCase [INFO] 执行结果是:(664, 18, 'ECS000664', '包包爱宝宝', '+', 0, 0, '', 1, Decimal('0.000'), Decimal('0.00'), 0, Decimal('0.00'), Decimal('0.00'), 0, 0, 1, '', '', '', '', '', '', 1, '', 1, 1, 0, 0, 1616746577, 100, 0, 0, 0, 0, 0, 0, 1616746577, 0, '', -1, -1, 0, None)
+2021-03-29 14:40:03 GoodsCase [INFO] 测试通过
+2021-03-29 14:56:41 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 14:56:44 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 14:56:44 BasePage [INFO] 我打开了../drivers/chromedriver网页
+2021-03-29 14:56:44 Config [INFO] 你的value值为：http://192.168.1.32/ecshop/admin
+2021-03-29 14:56:46 BasePage [INFO] 最大化浏览器
+2021-03-29 14:56:46 BasePage [INFO] 对着class_name=>btn-a元素点击了一下
+2021-03-29 14:56:47 BasePage [INFO] 对着link_text=>商品列表元素点击了一下
+2021-03-29 14:56:47 BasePage [INFO] 对着xpath=>//a[@href='goods.php?act=add']元素点击了一下
+2021-03-29 14:56:48 BasePage [INFO] 对着xpath=>//input[@value=' 确定 ']元素点击了一下
+2021-03-29 14:56:48 GoodsCase [INFO] 你执行的sql是:[select * from ecs_goods where goods_name='包包爱宝宝']
+2021-03-29 14:56:48 Config [INFO] 你的value值为：192.168.1.32
+2021-03-29 14:56:48 Config [INFO] 你的value值为：root
+2021-03-29 14:56:48 Config [INFO] 你的value值为：root
+2021-03-29 14:56:48 Config [INFO] 你的value值为：ecshop
+2021-03-29 14:56:48 GoodsCase [INFO] 执行结果是:(664, 18, 'ECS000664', '包包爱宝宝', '+', 0, 0, '', 1, Decimal('0.000'), Decimal('0.00'), 0, Decimal('0.00'), Decimal('0.00'), 0, 0, 1, '', '', '', '', '', '', 1, '', 1, 1, 0, 0, 1616746577, 100, 0, 0, 0, 0, 0, 0, 1616746577, 0, '', -1, -1, 0, None)
+2021-03-29 14:56:48 GoodsCase [INFO] 测试通过
+2021-03-29 15:22:26 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 15:22:29 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 15:22:29 BasePage [INFO] 我打开了../drivers/chromedriver网页
+2021-03-29 15:22:29 Config [INFO] 你的value值为：http://192.168.1.32/ecshop/admin
+2021-03-29 15:22:31 BasePage [INFO] 最大化浏览器
+2021-03-29 15:22:31 BasePage [INFO] 对着class_name=>btn-a元素点击了一下
+2021-03-29 15:22:32 BasePage [INFO] 对着link_text=>商品列表元素点击了一下
+2021-03-29 15:22:32 BasePage [INFO] 对着xpath=>//a[@href='goods.php?act=add']元素点击了一下
+2021-03-29 15:22:33 BasePage [INFO] 对着xpath=>//input[@value=' 确定 ']元素点击了一下
+2021-03-29 15:22:33 GoodsCase [INFO] 你执行的sql是:[select * from ecs_goods where goods_name='包包爱宝宝']
+2021-03-29 15:22:33 Config [INFO] 你的value值为：192.168.1.32
+2021-03-29 15:22:33 Config [INFO] 你的value值为：root
+2021-03-29 15:22:33 Config [INFO] 你的value值为：root
+2021-03-29 15:22:33 Config [INFO] 你的value值为：ecshop
+2021-03-29 15:22:33 GoodsCase [INFO] 执行结果是:(664, 18, 'ECS000664', '包包爱宝宝', '+', 0, 0, '', 1, Decimal('0.000'), Decimal('0.00'), 0, Decimal('0.00'), Decimal('0.00'), 0, 0, 1, '', '', '', '', '', '', 1, '', 1, 1, 0, 0, 1616746577, 100, 0, 0, 0, 0, 0, 0, 1616746577, 0, '', -1, -1, 0, None)
+2021-03-29 15:22:33 GoodsCase [INFO] 测试通过
+2021-03-29 15:22:53 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 15:22:56 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 15:22:56 BasePage [INFO] 我打开了../drivers/chromedriver网页
+2021-03-29 15:22:56 Config [INFO] 你的value值为：http://192.168.1.32/ecshop/admin
+2021-03-29 15:22:58 BasePage [INFO] 最大化浏览器
+2021-03-29 15:22:58 BasePage [INFO] 对着class_name=>btn-a元素点击了一下
+2021-03-29 15:22:59 BasePage [INFO] 对着link_text=>商品列表元素点击了一下
+2021-03-29 15:22:59 BasePage [INFO] 对着xpath=>//a[@href='goods.php?act=add']元素点击了一下
+2021-03-29 15:23:00 BasePage [INFO] 对着xpath=>//input[@value=' 确定 ']元素点击了一下
+2021-03-29 15:23:00 GoodsCase [INFO] 你执行的sql是:[select * from ecs_goods where goods_name='包包爱宝宝']
+2021-03-29 15:23:00 Config [INFO] 你的value值为：192.168.1.32
+2021-03-29 15:23:00 Config [INFO] 你的value值为：root
+2021-03-29 15:23:00 Config [INFO] 你的value值为：root
+2021-03-29 15:23:00 Config [INFO] 你的value值为：ecshop
+2021-03-29 15:23:00 GoodsCase [INFO] 执行结果是:(664, 18, 'ECS000664', '包包爱宝宝', '+', 0, 0, '', 1, Decimal('0.000'), Decimal('0.00'), 0, Decimal('0.00'), Decimal('0.00'), 0, 0, 1, '', '', '', '', '', '', 1, '', 1, 1, 0, 0, 1616746577, 100, 0, 0, 0, 0, 0, 0, 1616746577, 0, '', -1, -1, 0, None)
+2021-03-29 15:23:00 GoodsCase [INFO] 测试通过
+2021-03-29 15:23:51 Config [INFO] 对不起，你的base不存在
+2021-03-29 15:24:56 Config [INFO] 对不起，你的base不存在
+2021-03-29 15:26:10 Config [INFO] 对不起，你的base不存在
+2021-03-29 15:26:58 Config [INFO] 对不起，你的base不存在
+2021-03-29 15:28:14 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 15:28:17 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 15:28:17 BasePage [INFO] 我打开了../drivers/chromedriver网页
+2021-03-29 15:28:17 Config [INFO] 你的value值为：http://192.168.1.32/ecshop/admin
+2021-03-29 15:28:19 BasePage [INFO] 最大化浏览器
+2021-03-29 15:28:19 BasePage [INFO] 对着class_name=>btn-a元素点击了一下
+2021-03-29 15:28:20 BasePage [INFO] 对着link_text=>商品列表元素点击了一下
+2021-03-29 15:28:21 BasePage [INFO] 对着xpath=>//a[@href='goods.php?act=add']元素点击了一下
+2021-03-29 15:28:21 BasePage [INFO] 对着xpath=>//input[@value=' 确定 ']元素点击了一下
+2021-03-29 15:28:21 GoodsCase [INFO] 你执行的sql是:[select * from ecs_goods where goods_name='包包爱宝宝']
+2021-03-29 15:28:21 Config [INFO] 你的value值为：192.168.1.32
+2021-03-29 15:28:21 Config [INFO] 你的value值为：root
+2021-03-29 15:28:21 Config [INFO] 你的value值为：root
+2021-03-29 15:28:21 Config [INFO] 你的value值为：ecshop
+2021-03-29 15:28:21 GoodsCase [INFO] 执行结果是:(664, 18, 'ECS000664', '包包爱宝宝', '+', 0, 0, '', 1, Decimal('0.000'), Decimal('0.00'), 0, Decimal('0.00'), Decimal('0.00'), 0, 0, 1, '', '', '', '', '', '', 1, '', 1, 1, 0, 0, 1616746577, 100, 0, 0, 0, 0, 0, 0, 1616746577, 0, '', -1, -1, 0, None)
+2021-03-29 15:28:21 GoodsCase [INFO] 测试通过
+2021-03-29 15:31:48 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 15:31:50 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 15:31:50 BasePage [INFO] 我打开了../drivers/chromedriver网页
+2021-03-29 15:31:50 Config [INFO] 你的value值为：http://192.168.1.32/ecshop/admin
+2021-03-29 15:31:52 BasePage [INFO] 最大化浏览器
+2021-03-29 15:31:52 BasePage [INFO] 对着class_name=>btn-a元素点击了一下
+2021-03-29 15:31:54 BasePage [INFO] 对着link_text=>商品列表元素点击了一下
+2021-03-29 15:31:54 BasePage [INFO] 对着xpath=>//a[@href='goods.php?act=add']元素点击了一下
+2021-03-29 15:31:54 BasePage [INFO] 对着xpath=>//input[@value=' 确定 ']元素点击了一下
+2021-03-29 15:31:55 GoodsCase [INFO] 你执行的sql是:[select * from ecs_goods where goods_name='包包爱宝宝']
+2021-03-29 15:31:55 Config [INFO] 你的value值为：192.168.1.32
+2021-03-29 15:31:55 Config [INFO] 你的value值为：root
+2021-03-29 15:31:55 Config [INFO] 你的value值为：root
+2021-03-29 15:31:55 Config [INFO] 你的value值为：ecshop
+2021-03-29 15:31:55 Config [INFO] 你的value值为：3306
+2021-03-29 15:31:55 GoodsCase [INFO] 执行结果是:(664, 18, 'ECS000664', '包包爱宝宝', '+', 0, 0, '', 1, Decimal('0.000'), Decimal('0.00'), 0, Decimal('0.00'), Decimal('0.00'), 0, 0, 1, '', '', '', '', '', '', 1, '', 1, 1, 0, 0, 1616746577, 100, 0, 0, 0, 0, 0, 0, 1616746577, 0, '', -1, -1, 0, None)
+2021-03-29 15:31:55 GoodsCase [INFO] 测试通过
+2021-03-29 16:57:09 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 16:57:12 Config [INFO] 你的value值为：../drivers/chromedriver
+2021-03-29 16:57:12 BasePage [INFO] 我打开了../drivers/chromedriver网页
+2021-03-29 16:57:12 Config [INFO] 你的value值为：http://192.168.1.32/ecshop/admin
+2021-03-29 16:57:14 BasePage [INFO] 最大化浏览器
+2021-03-29 16:57:14 BasePage [INFO] 对着class_name=>btn-a元素点击了一下
+2021-03-29 16:57:15 BasePage [INFO] 对着link_text=>商品列表元素点击了一下
+2021-03-29 16:57:15 BasePage [INFO] 对着xpath=>//a[@href='goods.php?act=add']元素点击了一下
+2021-03-29 16:57:16 BasePage [INFO] 对着xpath=>//input[@value=' 确定 ']元素点击了一下
+2021-03-29 16:57:16 GoodsCase [INFO] 你执行的sql是:[select * from ecs_goods where goods_name='包包爱宝宝']
+2021-03-29 16:57:16 Config [INFO] 你的value值为：192.168.1.32
+2021-03-29 16:57:16 Config [INFO] 你的value值为：root
+2021-03-29 16:57:16 Config [INFO] 你的value值为：root
+2021-03-29 16:57:16 Config [INFO] 你的value值为：ecshop
+2021-03-29 16:57:16 Config [INFO] 你的value值为：3306
+2021-03-29 16:57:16 GoodsCase [INFO] 执行结果是:(664, 18, 'ECS000664', '包包爱宝宝', '+', 0, 0, '', 1, Decimal('0.000'), Decimal('0.00'), 0, Decimal('0.00'), Decimal('0.00'), 0, 0, 1, '', '', '', '', '', '', 1, '', 1, 1, 0, 0, 1616746577, 100, 0, 0, 0, 0, 0, 0, 1616746577, 0, '', -1, -1, 0, None)
+2021-03-29 16:57:16 GoodsCase [INFO] 测试通过
