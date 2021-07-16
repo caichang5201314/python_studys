@@ -28,7 +28,7 @@ class TestDemo(unittest.TestCase):
     # 所有的测试方法都要以test为开头
     def test_case1(self):
         print('test_case1')
-        self.assertEqual(1 + 1, 2, '用例失败')
+        self.assertEqual(1 + 1, 3, '用例失败')
 
     def test_case2(self):
         print('test_case2')
